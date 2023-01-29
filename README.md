@@ -5,9 +5,9 @@
                        yyyyy- -yyyyyy+      const yamil= ()=>{
                     ://+//////-yyyyyyo        let aboutMe:{
                 .++ .:/++++++/-.+sss/`          
-              .:++o:  /++++++++/:--:/-          code:[Javascript, HTML, CSS, React, Bootstrap, JQuery, SASS, Redux]
+              .:++o:  /++++++++/:--:/-          code:[Javascript,MongoDb,SQL, NodeJs,Express, HTML, CSS, React]
              o:+o+:++.`..```.-/oo+++++/     
-            .:+o:+o/.          `+sssoo+/        lenguages: ["English","Spanish"],
+            .:+o:+o/.          `+sssoo+/        lenguages: ["English","Spanish,Portuguese"],
        .++/+:+oo+o:`             /sssooo.       
       /+++//+:`oo+o               /::--:.       likes: ["coffe"],["music"],
       \+/+o+++`o++o               ++////.      
