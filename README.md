@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Social-Media-Frontend](https://github.com/yamilt351/Social-media-Frontend)
 
-- 👨‍💻 All of my projects are available at [https://yamilt351.github.io/portfolio-mio/](https://yamilt351.github.io/portfolio-mio/)
+- 👨‍💻 All of my projects are available at [my Postfolio](https://yamilt351.github.io/Yamil-Tauil/)
 
 - 💬 Ask me about **Javascript, Nodejs, express, React**
 
