@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamilt351&label=Profile%20views&color=0e75b6&style=flat" alt="yamilt351" /> </p>
 
-- 🔭 I’m currently working on [Discord-Bot](https://github.com/yamilt351/jes_bot_discord)
+- 🔭 I’m currently working on [Social-Media-Rest-Api](https://github.com/yamilt351/Social-media)
 
 - 🌱 I’m currently learning **MySQL, Typescript,Docker**
 
