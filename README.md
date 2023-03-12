@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Javascript, Nodejs, express, React**
 
-- 📫 How to reach me [Via Eamil](3bl48d8gf@mozmail.com)
+- 📫 How to reach me [Via Eamil](malto:3bl48d8gf@mozmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
