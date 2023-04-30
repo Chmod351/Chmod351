@@ -8,11 +8,13 @@
 
 - 🔭 I’m currently working on [Social-Media-Rest-Api](https://github.com/yamilt351/Social-media)
 
-- 🌱 I’m currently learning **MySQL, Typescript,Docker**
+- 🌱 I’m currently learning **Typescript,Docker**
 
 - 🤝 I’m looking for help with [Social-Media-Frontend](https://github.com/yamilt351/Social-media-Frontend)
 
 - 👨‍💻 All of my projects are available at [my Portfolio](https://yamilt351.github.io/Yamil-Tauil/)
+- About me
+👋 Hello! I'm Yamil, a Full Stack developer with experience in backend development. My level of 🇬🇧 English is C1 and I'm currently learning 🇧🇷 Portuguese at an A1 level. Additionally, I was a sales team leader for Alra S.A Volkswagen's savings plans for 4 years.
 
 - 💬 Ask me about **Javascript, Nodejs, express, React**
 
