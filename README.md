@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/88646148/231575525-96de4f59-3fcb-4bd7-ab42-897b5650d9cb.jpeg"/>
 </p>
 <h1 align="center">Hi 👋, I'm Yamil</h1>
-<h3 align="center">A passionate backend developer from Argentina</h3>
+<h3 align="center">A passionate Javascript Backend Developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamilt351&label=Profile%20views&color=0e75b6&style=flat" alt="yamilt351" /> </p>
 
