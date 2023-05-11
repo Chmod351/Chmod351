@@ -6,15 +6,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamilt351&label=Profile%20views&color=0e75b6&style=flat" alt="yamilt351" /> </p>
 
-- 🔭 I’m currently working on [Social-Media-Rest-Api](https://github.com/yamilt351/Social-media)
+- 🔭 I’m currently working as Freelancer in upwork and workana!
 
-- 🌱 I’m currently learning **Typescript,Docker**
+- 🌱 I’m currently learning **Typescript**
 
-- 🤝 I’m looking for help with [Social-Media-Frontend](https://github.com/yamilt351/Social-media-Frontend)
+- 🤝 I am looking for a healthy work environment where I can develop my skills and acquire new ones. I enjoy collaborating and participating in team projects. I believe that diversity is a source of richness, and that everyone's opinions have great potential in the final project.
 
 - 👨‍💻 All of my projects are available at [my Portfolio](https://yamilt351.github.io/Yamil-Tauil/)
 - **About me**
-- 👋 Hello! I'm Yamil, a Full Stack developer with experience in backend development. My level of 🇬🇧 English is C1 and I'm currently learning 🇧🇷 Portuguese at an A1 level. Additionally, I was a sales team leader for Alra S.A Volkswagen for 4 years.
+- 👋 Hello, my name is Yamil Tauil, and I am a backend developer with less than one year of experience. Although I am new to the field, I am eager to learn and improve my skills every day. I am passionate about developing applications that are not only functional but also user-friendly.
+
+I am well-versed in Git, Scrum, Kanban, Agile, Git flow, JavaScript, and Linux. Additionally, I am familiar with various databases such as PostgreSQL and MongoDB, and I have experience working with Node.js and Express frameworks. I am proficient in testing frameworks such as Jest and Swagger, and I have experience with API Rests and Docker.
+
+I am continuously seeking to improve my knowledge and skills and have recently been learning about implementing design patterns. As a team player, I enjoy working with others, and I believe that collaboration is key to achieving success in any project.
+
+Overall, I am excited to continue growing as a developer and to contribute my skills to meaningful projects that make a positive impact on people's lives.
 
 - 💬 Ask me about **Javascript, Nodejs, express, React**
 
