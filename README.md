@@ -2,33 +2,55 @@
 <h3 align="center">A passionate Javascript Backend Developer from Argentina</h3>
 
 <img src ="https://github.com/yamilt351/yamilt351/assets/88646148/d1c3c1dd-8504-47e3-85fc-79b1216ba53b"/>
-
-
-
-
  <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://discord.gg/hPcZFqKK">
+    <img src="https://img.shields.io/badge/Discord-red?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="mailto:3bl48d8gf@mozmail.com">
-    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+ <a href="https://hub.docker.com/u/clamshell6412">
+    <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+  </a>
+
 </div>
   </div>
+  
+```javascript
 
+class Yamil extends Person {
+  constructor() {
+    super();
+    this.name = 'Yamil Tauil';
+    this.age = 30;
+    this.work = ['UpWork', 'Workana', 'Freelancer'];
+    this.hobbies = ['Linux', 'Autohosting services', 'Drawing'];
+  }
 
-- 🔭 I’m currently working as Freelancer in upwork and workana!
+  current_location() {
+    return 'Buenos Aires, Argentina';
+  }
 
-- 🌱 I’m currently learning **Typescript** & studying in [openbootcamp](https://campus.open-bootcamp.com/login)
+  currently() {
+    return {
+      studying: ['Typescript'],
+      reading: ['Desgin Patterns', 'Structure and Interpretation of Computer Programs 2nd ed H Abelson Sussman'],
+      tinkering: ['Desgin']
+    };
+  }
+}
 
-- 🤝 I am looking for a healthy work environment where I can develop my skills and acquire new ones. I enjoy collaborating and participating in team projects. I believe that diversity is a source of richness, and that everyone's opinions have great potential in the final project.
+```
 
 ![rainbow](https://github.com/yamilt351/yamilt351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
 
-## About me 
+</div>
+ 
+<h3 align="center"> About me </h3>
+
 👋   I am a backend developer, I am eager to learn and improve my skills every day. I am passionate about developing applications that are not only functional but also user-friendly.
 
 I am well-versed in Git, Scrum, Kanban, Agile, Git flow, JavaScript, and Linux. Additionally, I am familiar with various databases such as PostgreSQL and MongoDB, and I have experience working with Node.js and Express frameworks. I am proficient in testing frameworks such as Jest and Swagger, and I have experience with API Rests and Docker.
@@ -37,22 +59,32 @@ I am continuously seeking to improve my knowledge and skills and have recently b
 
 Overall, I am excited to continue growing as a developer and to contribute my skills to meaningful projects that make a positive impact on people's lives.
 
-![rainbow](https://github.com/yamilt351/yamilt351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
 
-<h3 align="left">Languages and Tools:</h3>
 
-| Frontend        | Backend            | Others                        | Certifications              |
-| --------------- | ------------------ | ----------------------------- | ----------------------------|
-| React           | Nodejs             | Postman                       | [Javascript developer](link)|
-| Redux           | Express            | Jest                          | [Backend development](link) |
-| Css             | MongoDb            | Linux                         | [Frotend development](link) |
-| React Router    | PostgreSQL         | Render                        | [English](link)             |
-| Html            | Git                | Scrum & Kambam                |                             |
-|                 | Docker             | Swagger                       |                             |
+<div align="center">
+ 
+ ![rainbow](https://github.com/yamilt351/yamilt351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
+ 
+<h3>Languages and Tools:</h3>
 
-![rainbow](https://github.com/yamilt351/yamilt351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
+| Frontend        | Backend            | Others                        |  WorkFlow |
+| --------------- | ------------------ | ----------------------------- | ----------|
+| React           | Nodejs             | Postman                       |  Scrum    |
+| Redux           | Express            | Jest                          |  Trello   |
+| Css             | MongoDb            | Linux                         |  Git Flow |
+| React Router    | PostgreSQL         | Render                        |  Kambam   |
+| Html            | Git                | Swagger                       |           |
+| Javascript      | Docker             |                               |           |
+ 
+</div>
 
+<div align="center">
+ 
+ ![rainbow](https://github.com/yamilt351/yamilt351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
+ 
 | most used language  | My Stats        | 
 | ---------------| ------------------ |
 | <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yamilt351&show_icons=true&locale=en&layout=compact" alt="yamilt351" /> |<img src="https://github-readme-stats.vercel.app/api?username=yamilt351&show_icons=true&locale=en" alt="yamilt351" />       | 
+ 
+ </div>
 
