@@ -25,6 +25,7 @@
 - 🌱 I’m currently learning **Typescript** & studying in [openbootcamp](https://campus.open-bootcamp.com/login)
 
 - 🤝 I am looking for a healthy work environment where I can develop my skills and acquire new ones. I enjoy collaborating and participating in team projects. I believe that diversity is a source of richness, and that everyone's opinions have great potential in the final project.
+
 ![rainbow](https://github.com/yamilt351/yamilt351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
 
 ## About me 
