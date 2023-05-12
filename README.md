@@ -3,13 +3,16 @@
 </p>
 <h1 align="center">Hi 👋, I'm Yamil</h1>
 <h3 align="center">A passionate Javascript Backend Developer from Argentina</h3>
+<div>
 <p align="left">
 <img src ="https://github.com/yamilt351/yamilt351/assets/88646148/d1c3c1dd-8504-47e3-85fc-79b1216ba53b"/>
   </p>
-<h3 align="right">Connect with me:</h3>
+  <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://www.linkedin.com/in/yamil-t/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yamil-tauil/" height="30" width="40" /></a>
 </p>
+  </div>
+
 
 - 🔭 I’m currently working as Freelancer in upwork and workana!
 
