@@ -2,7 +2,10 @@
 <h3 align="center">A passionate Javascript Backend Developer from Argentina</h3>
 <div align="center">
 <p align="left">
-<img src ="https://github.com/yamilt351/yamilt351/assets/88646148/d1c3c1dd-8504-47e3-85fc-79b1216ba53b"/>
+| Me | most used language  | My Stats        | 
+|-------------| ---------------| ------------------ |
+|<img src ="https://github.com/yamilt351/yamilt351/assets/88646148/d1c3c1dd-8504-47e3-85fc-79b1216ba53b"/>| <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yamilt351&show_icons=true&locale=en&layout=compact" alt="yamilt351" /> |<img src="https://github-readme-stats.vercel.app/api?username=yamilt351&show_icons=true&locale=en" alt="yamilt351" />       | 
+
   </p>
  <div id="badges">
   <a href="your-linkedin-URL">
@@ -51,7 +54,5 @@ Overall, I am excited to continue growing as a developer and to contribute my sk
 
 ![rainbow](https://github.com/yamilt351/yamilt351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
 
-| most used language  | My Stats        | 
-| ---------------| ------------------ |
-| <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yamilt351&show_icons=true&locale=en&layout=compact" alt="yamilt351" /> |<img src="https://github-readme-stats.vercel.app/api?username=yamilt351&show_icons=true&locale=en" alt="yamilt351" />       | 
+
 
