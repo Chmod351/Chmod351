@@ -48,9 +48,9 @@ Overall, I am excited to continue growing as a developer and to contribute my sk
 | Html            | Git                | Scrum & Kambam                |                             |
 |                 | Docker             | Swagger                       |                             |
 
+![rainbow](https://github.com/yamilt351/yamilt351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
 
-<div>
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yamilt351&show_icons=true&locale=en&layout=compact" alt="yamilt351" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yamilt351&show_icons=true&locale=en" alt="yamilt351" /></p>
-</div>
+| most used language  | My Stats        | 
+| ---------------| ------------------ |
+| <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yamilt351&show_icons=true&locale=en&layout=compact" alt="yamilt351" /> |<img src="https://github-readme-stats.vercel.app/api?username=yamilt351&show_icons=true&locale=en" alt="yamilt351" />       | 
 
