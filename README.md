@@ -26,7 +26,7 @@
 ![rainbow](https://github.com/yamilt351/yamilt351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
 
 ## About me 
-👋 Hello, my name is Yamil Tauil, and I am a backend developer with less than one year of experience. Although I am new to the field, I am eager to learn and improve my skills every day. I am passionate about developing applications that are not only functional but also user-friendly.
+👋   I am a backend developer, I am eager to learn and improve my skills every day. I am passionate about developing applications that are not only functional but also user-friendly.
 
 I am well-versed in Git, Scrum, Kanban, Agile, Git flow, JavaScript, and Linux. Additionally, I am familiar with various databases such as PostgreSQL and MongoDB, and I have experience working with Node.js and Express frameworks. I am proficient in testing frameworks such as Jest and Swagger, and I have experience with API Rests and Docker.
 
