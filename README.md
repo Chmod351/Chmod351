@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Yamil</h1>
 <h3 align="center">A passionate Javascript Backend Developer from Argentina</h3>
-<div>
+<div align="center">
 <p align="left">
 <img src ="https://github.com/yamilt351/yamilt351/assets/88646148/d1c3c1dd-8504-47e3-85fc-79b1216ba53b"/>
   </p>
