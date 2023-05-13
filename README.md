@@ -26,7 +26,7 @@ class Yamil extends Person {
     super();
     this.name = 'Yamil Tauil';
     this.age = 30;
-    this.work = ['UpWork', 'Workana', 'Freelancer'];
+    this.work = ['Freelancer'];
     this.hobbies = ['Linux', 'Autohosting services', 'Drawing'];
   }
 
