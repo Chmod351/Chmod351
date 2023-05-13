@@ -75,6 +75,12 @@ Overall, I am excited to continue growing as a developer and to contribute my sk
 | React Router    | PostgreSQL         | Render                        |  Kambam   |
 | Html            | Git                | Swagger                       |           |
 | Javascript      | Docker             |                               |           |
+| Axios           |JWT / Express-sesion|                               |           |
+| Boostrap        | Api Restfull       |                               |           |
+|                 | Web Server         |                               |           |
+|                 | Javascript         |                               |           |
+|                 | Sequelize          |                               |           |
+|                 |                    |                               |           |
  
 </div>
 
