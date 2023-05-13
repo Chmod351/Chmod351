@@ -3,7 +3,7 @@
 
 <img src ="https://github.com/yamilt351/yamilt351/assets/88646148/d1c3c1dd-8504-47e3-85fc-79b1216ba53b"/>
  <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/yamil-t/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://discord.gg/hPcZFqKK">
