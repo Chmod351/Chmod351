@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/yamil-t/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://discord.gg/hPcZFqKK">
-    <img src="https://img.shields.io/badge/Discord-red?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
   <a href="mailto:3bl48d8gf@mozmail.com">
     <img src="https://img.shields.io/badge/Email-purple?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
