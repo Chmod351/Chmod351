@@ -70,9 +70,9 @@ Overall, I am excited to continue growing as a developer and to contribute my sk
 |          | Redux           | Express            | Jest          |PostgreSQL|      Trello   |
 |          | Css             | Docker             | Linux         |Sequelize |    Git Flow   |               
 |          | React Router    | Api Restfull       | Swagger       |          |     Kambam    |
-|          | Html            |                    | Supertest     |          |      Git      |
-|          | Boostrap        |                    |               |          |               |
- 
+|          | Html            | JWT                | Supertest     |          |      Git      |
+|          | Boostrap        |                    |               |          |    VsCode     |
+|          |                 |                    |               |          |    Neovim     |
 
  
 </div>
