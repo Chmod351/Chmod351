@@ -67,20 +67,16 @@ Overall, I am excited to continue growing as a developer and to contribute my sk
  
 <h3>Languages and Tools:</h3>
 
-| Frontend        | Backend            | Others                        |  WorkFlow |
-| --------------- | ------------------ | ----------------------------- | ----------|
-| React           | Nodejs             | Postman                       |  Scrum    |
-| Redux           | Express            | Jest                          |  Trello   |
-| Css             | MongoDb            | Linux                         |  Git Flow |
-| React Router    | PostgreSQL         | Render                        |  Kambam   |
-| Html            | Git                | Swagger                       |           |
-| Javascript      | Docker             |                               |           |
-| Axios           |JWT / Express-sesion|                               |           |
-| Boostrap        | Api Restfull       |                               |           |
-|                 | Web Server         |                               |           |
-|                 | Javascript         |                               |           |
-|                 | Sequelize          |                               |           |
-|                 |                    |                               |           |
+|Languages | Frontend        | Backend            | Others        | Dtabases |      WorkFlow | 
+|----------| --------------- | ------------------ | --------------|----------|---------------|
+|Javascript| React           | Nodejs             | Postman       |  MongoDb |      Scrum    |
+|          | Redux           | Express            | Jest          |PostgreSQL|      Trello   |
+|          | Css             | Docker             | Linux         |Sequelize |    Git Flow   |               
+|          | React Router    | Api Restfull       | Swagger       |          |     Kambam    |
+|          | Html            |                    | Supertest     |          |      Git      |
+|          | Boostrap        |                    |               |          |               |
+ 
+
  
 </div>
 
