@@ -69,8 +69,8 @@ Overall, I am excited to continue growing as a developer and to contribute my sk
 |Javascript| React           | Nodejs             | Postman       |  MongoDb |      Scrum    |
 |          | Redux           | Express            | Jest          |PostgreSQL|      Trello   |
 |          | Css             | Docker             | Linux         |Sequelize |    Git Flow   |               
-|          | React Router    | Api Restfull       | Swagger       |          |     Kambam    |
-|          | Html            | JWT                | Supertest     |          |      Git      |
+|          | React Router    | Api Restfull       | Swagger       |  MySQL   |     Kambam    |
+|          | Html            | JWT                | Supertest     | MariaDB  |      Git      |
 |          | Boostrap        |                    |               |          |    VsCode     |
 |          |                 |                    |               |          |    Neovim     |
 
