@@ -70,8 +70,8 @@ Overall, I am excited to continue growing as a developer and to contribute my sk
 |Typescript| Redux           | Express            | Jest          |PostgreSQL|      Trello   |
 |          | Css             | Docker             | Linux         |Sequelize |    Git Flow   |               
 |          | Styled-component| Api Restfull       | Swagger       |  MySQL   |     Kambam    |
-|          |                 | Nest               | Supertest     | MariaDB  |      Git      |
-|          |                 | Firebase           |               |          |    VsCode     |
+|          |                 |   Firebase         | Supertest     | MariaDB  |      Git      |
+|          |                 |                    |               |          |    VsCode     |
 |          |                 |                    |               |          |    Neovim     |
 
  
