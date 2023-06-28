@@ -67,7 +67,7 @@ Overall, I am excited to continue growing as a developer and to contribute my sk
 |Languages | Frontend        | Backend            | Others        | Dtabases |      WorkFlow | 
 |----------| --------------- | ------------------ | --------------|----------|---------------|
 |Javascript| React           | Nodejs             | Postman       |  MongoDb |      Scrum    |
-|Typescript| Redux           | Express            | Jest          |PostgreSQL|      Trello   |
+|          | Redux           | Express            | Jest          |PostgreSQL|      Trello   |
 |          | Css             | Docker             | Linux         |Sequelize |    Git Flow   |               
 |          | Styled-component| Api Restfull       | Swagger       |  MySQL   |     Kambam    |
 |          |                 |   Firebase         | Supertest     | MariaDB  |      Git      |
