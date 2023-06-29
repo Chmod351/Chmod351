@@ -17,10 +17,9 @@
   
 ```javascript
 
-class Yamil extends Person {
+class Me extends Person {
   constructor() {
     super();
-    this.name = 'Yamil Tauil';
     this.age = 30;
     this.work = ['Freelancer'];
     this.hobbies = ['Linux', 'Autohosting services', 'Drawing'];
