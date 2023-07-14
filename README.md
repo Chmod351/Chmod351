@@ -58,13 +58,12 @@ I am continuously seeking to improve my knowledge and skills and have recently b
 
 |Languages | Frontend        | Backend            | Others        | Dtabases |      WorkFlow | 
 |----------| --------------- | ------------------ | --------------|----------|---------------|
-|Javascript| React           | Nodejs             | Postman       |  MongoDb |      Scrum    |
+|Javascript| React           | Nodejs             | Postman       | MongoDb  |      Scrum    |
 |          | Redux           | Express            | Jest          |PostgreSQL|      Trello   |
-|          | Css             | Docker             | Linux         |Sequelize |    Git Flow   |               
-|          | Styled-component|    Firebase        | Swagger       |          |     Kambam    |
-|          |                 |                    | Supertest     |          |      Git      |
-|          |                 |                    |               |          |    VsCode     |
-|          |                 |                    |               |          |    Neovim     |
+|          | Styled-component| Docker             | Supertest     |Sequelize |    Git Flow   |               
+|          |                 | Firebase           | Swagger       |          |     Kambam    |
+|          |                 |                    |               |          |      Git      |
+
 
  
 </div>
