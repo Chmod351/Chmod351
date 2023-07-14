@@ -48,13 +48,7 @@ class Me extends Person {
 
 👋   I am a backend developer, I am eager to learn and improve my skills every day. I am passionate about developing applications that are not only functional but also user-friendly.
 
-I am well-versed in Git, Scrum, Kanban, Agile, Git flow, JavaScript, and Linux. Additionally, I am familiar with various databases such as PostgreSQL and MongoDB, and I have experience working with Node.js and Express frameworks. I am proficient in testing frameworks such as Jest and Swagger, and I have experience with API Rests and Docker.
-
 I am continuously seeking to improve my knowledge and skills and have recently been learning about implementing design patterns. As a team player, I enjoy working with others, and I believe that collaboration is key to achieving success in any project.
-
-Overall, I am excited to continue growing as a developer and to contribute my skills to meaningful projects that make a positive impact on people's lives.
-
-
 
 <div align="center">
  
