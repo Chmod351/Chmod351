@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:3bl48d8gf@mozmail.com">
-    <img src="https://img.shields.io/badge/Protonmail-purple?style=for-the-badge&logo=gmail&logoColor=white" alt="Proton Badge"/>
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Badge"/>
   </a>
  <a href="https://hub.docker.com/u/clamshell6412">
     <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
@@ -23,7 +23,6 @@
    <a href="https://github.com/yamilt351/neovim">
     <img src="https://img.shields.io/badge/My NeoVim Set Up-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/>
   </a>
- <img src="https://img.shields.io/github/watchers/{username}/{repo-name}.svg" />
 </div>
   </div>
   
@@ -52,7 +51,6 @@ class Me extends Person {
 
 ```
 
-![rainbow](https://github.com/yamilt351/yamilt351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
 
 </div>
  
@@ -70,7 +68,7 @@ I am continuously seeking to improve my knowledge and skills and have recently b
 
 |Languages | Frontend        | Backend            | Others        | Dtabases |      WorkFlow | 
 |----------| --------------- | ------------------ | --------------|----------|---------------|
-|Javascript| React           | Nodejs             | Postman       | MongoDb  |      Scrum    |
+|<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>| React           | Nodejs             | Postman       | MongoDb  |      Scrum    |
 |          | Redux           | Express            | Jest          |PostgreSQL|      Trello   |
 |          | Styled-component| Docker             | Supertest     |Sequelize |    Git Flow   |               
 |          |                 |                    | Swagger       |          |     Kambam    |
