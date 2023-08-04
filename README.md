@@ -35,9 +35,6 @@ I would love to be part of a collaborative and focused team that brings out the 
     <img src="https://img.shields.io/badge/My NeoVim Set Up-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/>
   </a>
 </div>
-  </div>
-  
-</div>
 
 <div align="center">
  
