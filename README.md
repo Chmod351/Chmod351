@@ -12,7 +12,7 @@ I would love to be part of a collaborative and focused team that brings out the 
 </div>
 </div>
 
- <div id="badges">
+ <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yamil-tauil/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
