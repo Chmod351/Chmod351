@@ -1,17 +1,5 @@
 <h1 align="center">Hi am a passionate Javascript Backend Developer</h1>
 <h2 align="center"> "When you love what you do, the sky's the limit."</h2>
-
-<img src ="https://github.com/yamilt351/yamilt351/assets/88646148/d1c3c1dd-8504-47e3-85fc-79b1216ba53b" align="left"/>
-<div align="right">
- 
-<h3 align="center"> About me </h3>
-<div align="center"> 
-I learned to program because I love <b>Linux</b> and I would like to collaborate on important open-source projects within the Linux community in the future. One thing I've learned over time is that when you love what you do, nothing and no one can stop you, and that's how I've grown both professionally and academically, continuously learning new technologies and ways to improve my code. When you love what you do, the sky's the limit.
-
-I would love to be part of a collaborative and focused team that brings out the best in each other and challenges me every day, providing new opportunities for growth.
-</div>
-</div>
-
  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yamil-tauil/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -34,6 +22,17 @@ I would love to be part of a collaborative and focused team that brings out the 
    <a href="https://github.com/yamilt351/neovim">
     <img src="https://img.shields.io/badge/My NeoVim Set Up-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/>
   </a>
+</div>
+
+<img src ="https://github.com/yamilt351/yamilt351/assets/88646148/d1c3c1dd-8504-47e3-85fc-79b1216ba53b" align="left"/>
+<div align="right">
+ 
+<h3 align="center"> About me </h3>
+<div align="center"> 
+I learned to program because I love <b>Linux</b> and I would like to collaborate on important open-source projects within the Linux community in the future. One thing I've learned over time is that when you love what you do, nothing and no one can stop you, and that's how I've grown both professionally and academically, continuously learning new technologies and ways to improve my code. When you love what you do, the sky's the limit.
+
+I would love to be part of a collaborative and focused team that brings out the best in each other and challenges me every day, providing new opportunities for growth.
+</div>
 </div>
 
 <div align="center">
