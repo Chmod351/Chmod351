@@ -29,7 +29,7 @@
  
 <h3 align="center"> About me </h3>
 <div align="center"> 
-I learned to program because I love <b>Linux</b> and I would like to collaborate on important open-source projects within the Linux community in the future. One thing I've learned over time is that when you love what you do, nothing and no one can stop you, and that's how I've grown both professionally and academically, continuously learning new technologies and ways to improve my code. When you love what you do, the sky's the limit.
+I learned to program because I love Linux, and I would like to collaborate on important open-source projects within the Linux community in the future. One thing I've learned over time is that when you love what you do, nothing and no one can stop you, and that's how I've grown both professionally and academically, continuously learning new technologies and ways to improve my code without stopping. When you love what you do, the sky's the limit.
 
 I would love to be part of a collaborative and focused team that brings out the best in each other and challenges me every day, providing new opportunities for growth.
 </div>
