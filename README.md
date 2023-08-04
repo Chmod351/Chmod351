@@ -1,4 +1,5 @@
 <h1 align="center">Hi am a passionate Javascript Backend Developer</h1>
+<h2 align="center"> "When you love what you do, the sky's the limit."</h2>
 
 <img src ="https://github.com/yamilt351/yamilt351/assets/88646148/d1c3c1dd-8504-47e3-85fc-79b1216ba53b"/>
  <div id="badges">
@@ -56,9 +57,9 @@ class Me extends Person {
  
 <h3 align="center"> About me </h3>
 
-👋   I am a backend developer, I am eager to learn and improve my skills every day. I am passionate about developing applications that are not only functional but also user-friendly.
+I learned to program because I love Linux and I would like to collaborate on important open-source projects within the Linux community in the future. One thing I've learned over time is that when you love what you do, nothing and no one can stop you, and that's how I've grown both professionally and academically, continuously learning new technologies and ways to improve my code. When you love what you do, the sky's the limit.
 
-I am continuously seeking to improve my knowledge and skills and have recently been learning about implementing design patterns. As a team player, I enjoy working with others, and I believe that collaboration is key to achieving success in any project.
+I would love to be part of a collaborative and focused team that brings out the best in each other and challenges me every day, providing new opportunities for growth.
 
 <div align="center">
  
