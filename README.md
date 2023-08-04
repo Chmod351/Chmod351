@@ -5,10 +5,11 @@
 <div align="right">
  
 <h3 align="center"> About me </h3>
-
-I learned to program because I love Linux and I would like to collaborate on important open-source projects within the Linux community in the future. One thing I've learned over time is that when you love what you do, nothing and no one can stop you, and that's how I've grown both professionally and academically, continuously learning new technologies and ways to improve my code. When you love what you do, the sky's the limit.
+<div align="center"> 
+I learned to program because I love <b>Linux</b> and I would like to collaborate on important open-source projects within the Linux community in the future. One thing I've learned over time is that when you love what you do, nothing and no one can stop you, and that's how I've grown both professionally and academically, continuously learning new technologies and ways to improve my code. When you love what you do, the sky's the limit.
 
 I would love to be part of a collaborative and focused team that brings out the best in each other and challenges me every day, providing new opportunities for growth.
+</div>
 </div>
 
  <div id="badges">
@@ -19,13 +20,13 @@ I would love to be part of a collaborative and focused team that brings out the 
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Badge"/>
   </a>
  <a href="https://hub.docker.com/u/clamshell6412">
-    <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+    <img src="https://img.shields.io/badge/My Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
   </a>
 <a href="https://discord.gg/5kMp9HwM">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://open.spotify.com/playlist/0FiQetZ1anKxqy58tOdsiT?si=898168eafdaa4f8e">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+    <img src="https://img.shields.io/badge/Soundtracks-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
   <a href="https://github.com/yamilt351/yamilt351/">
     <img src="https://img.shields.io/badge/I Use Arch BTW-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch BTW "/>
@@ -50,9 +51,6 @@ I would love to be part of a collaborative and focused team that brings out the 
 |          | <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="100%"/>           |<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" width="100%"/>            |           |<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="100%" />|     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" width="100%"/>   |
 |          | <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" width="100%"/>| <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" width="100%"/>            |     |<img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" width="100%"/> |      |               
 
-
-
- 
 </div>
 
 <div align="center">
