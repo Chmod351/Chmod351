@@ -1,6 +1,9 @@
 <h1 align="center">Hi am a passionate Javascript :computer: Backend Developer</h1>
 <h2 align="center"> "When you love what you do, the sky's the limit. 🤘"</h2>
  <div id="badges" align="center">
+   <a href="https://yamil-tauil.onrender.com/">
+    <img src="https://img.shields.io/badge/My Portfolio-red?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/yamil-tauil/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
