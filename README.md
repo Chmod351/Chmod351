@@ -1,5 +1,5 @@
 <h1 align="center">Hi am a passionate Javascript :computer: Backend Developer</h1>
-<h2 align="center"> "When you love what you do, the sky's the limit. 🤘"</h2>
+<h2 align="center"> "When you love what you do, there's no limit. 🤘"</h2>
  <div id="badges" align="center">
    <a href="https://yamil-tauil.onrender.com/">
     <img src="https://img.shields.io/badge/My Portfolio-red?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
@@ -32,7 +32,7 @@
  
 <h3 align="center">🌱 About me </h3>
 <div align="center"> 
-I learned to program because I love 🐧Linux, and I would like to collaborate on important open-source projects within the Linux community in the future. One thing I've learned over time is that when you love what you do, nothing and no one can stop you, and that's how I've grown both professionally and academically, continuously learning new technologies and ways to improve my code without stopping. When you love what you do, the sky's the limit.
+I learned to program because I love 🐧Linux, and I would like to collaborate on important open-source projects within the Linux community in the future. One thing I've learned over time is that when you love what you do, nothing and no one can stop you, and that's how I've grown both professionally and academically, continuously learning new technologies and ways to improve my code without stopping.
 
 I would love to be part of a collaborative and focused team that brings out the best in each other and challenges me every day, providing new opportunities for growth.
 </div>
