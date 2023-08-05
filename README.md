@@ -49,6 +49,25 @@ I would love to be part of a collaborative and focused team that brings out the 
 
 </div>
 
+  <div align="center">
+   
+  ![rainbow](https://github.com/yamilt351/yamilt351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
+    
+ <h1>Projects</h1>
+
+
+
+
+|📌 My Projects |📌 Languages |📌 Top Language |📌  Pull Requests |📌 Last Commit |📌 Issues |
+|-------------|----------|---------------|----------------|-----------|---------|
+|![Static Badge](https://img.shields.io/badge/scrapper-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/yamilt351/scraper?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/yamilt351/scraper?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/yamilt351/scraper?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/yamilt351/scraper) | ![GitHub issues](https://img.shields.io/github/issues/yamilt351/scraper?color=red)|
+|![Static Badge](https://img.shields.io/badge/proxy-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/yamilt351/proxy-web-microservice?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/yamilt351/proxy-web-microservice?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/yamilt351/proxy-web-microservice?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/yamilt351/proxy-web-microservice) | ![GitHub issues](https://img.shields.io/github/issues/yamilt351/proxy-web-microservice?color=red)|
+|![Static Badge](https://img.shields.io/badge/ecomerceDemo-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/yamilt351/ecomerceDemo?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/yamilt351/ecomerceDemo?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/yamilt351/ecomerceDemo?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/yamilt351/ecomerceDemo) | ![GitHub issues](https://img.shields.io/github/issues/yamilt351/ecomerceDemo?color=red)|
+
+
+ 
+</div>
+
 <div align="center">
  
  ![rainbow](https://github.com/yamilt351/yamilt351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
@@ -58,20 +77,7 @@ I would love to be part of a collaborative and focused team that brings out the 
 | <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yamilt351&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="yamilt351" /> |<img src="https://github-readme-stats.vercel.app/api?username=yamilt351&show_icons=true&locale=en&theme=blue-green" alt="yamilt351" />       | 
  
  </div>
- <div align="center">
-  
- ![rainbow](https://github.com/yamilt351/yamilt351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
-  
- <h1>Projects</h1>
-
- 
-|:computer: Project        |📈  Status              |📂 Documentation     |📌 Tech       |‼️ Pull Requests|
-| ---------------| ------------------ |------------------ |------------|---------------|
-| Ecommerce | [online](https://ciervademo.onrender.com/)|   [Postman](https://github.com/yamilt351/ecommerce-api-rest-javascript-node-mongo)                |Api Rest ,Javascript, nodejs, express, jwt, oauth, stripe, backend pagination, mvc, ddd,  Mongoose , React , Redux       |  ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/yamilt351/ecommerce-api-rest-javascript-node-mongo?color=red) |
-| Scrapper | [online](https://scraper-5ask.onrender.com/public/html.html)|   [Postman](https://github.com/yamilt351/scraper)                |Web Server , Javascript, nodejs, express, needle,cherio , mvc, ddd,sub /pub  Sequelize , HTML , CSS, Unit Testing        |  ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/yamilt351/scraper?color=red) |
 
 
 
-
- </div>
 
