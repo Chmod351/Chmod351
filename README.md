@@ -61,7 +61,7 @@ I would love to be part of a collaborative and focused team that brings out the 
 
 
 
-|📌 My Projects |📌 Languages |📌 Top Language |📌  Pull Requests |📌 Last Commit |📌 Issues |
+|📌 Projects |📌 Languages |📌 Top Language |📌  Pull Requests |📌 Last Commit |📌 Issues |
 |-------------|----------|---------------|----------------|-----------|---------|
 |![Static Badge](https://img.shields.io/badge/scrapper-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/yamilt351/scraper?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/yamilt351/scraper?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/yamilt351/scraper?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/yamilt351/scraper) | ![GitHub issues](https://img.shields.io/github/issues/yamilt351/scraper?color=red)|
 |![Static Badge](https://img.shields.io/badge/proxy-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/yamilt351/proxy-web-microservice?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/yamilt351/proxy-web-microservice?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/yamilt351/proxy-web-microservice?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/yamilt351/proxy-web-microservice) | ![GitHub issues](https://img.shields.io/github/issues/yamilt351/proxy-web-microservice?color=red)|
