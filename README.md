@@ -1,5 +1,7 @@
 <h1 align="center">Hi am a passionate Javascript :computer: Backend Developer</h1>
 <h2 align="center"> "When you love what you do, there's no limit. 🤘"</h2>
+
+ 
  <div id="badges" align="center">
    <a href="https://yamil-tauil.onrender.com/">
     <img src="https://img.shields.io/badge/My Portfolio-red?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
@@ -90,10 +92,14 @@ I would love to be part of a collaborative and focused team that brings out the 
 <div align="center">
  
  ![rainbow](https://github.com/yamilt351/yamilt351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=yamilt351&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
  
 |🔥 most used language 🔥 | 🔥🔥🔥 My Stats 🔥🔥🔥       | 
 | ---------------| ------------------ |
 | <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yamilt351&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="yamilt351" /> |<img src="https://github-readme-stats.vercel.app/api?username=yamilt351&show_icons=true&locale=en&theme=blue-green" alt="yamilt351" />       | 
+
+
  
  </div>
 
