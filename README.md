@@ -67,9 +67,11 @@ I would love to be part of a collaborative and focused team that brings out the 
  
 | Project        | Demo               | Documentation     | Tech       | Pull Requests |
 | ---------------| ------------------ |------------------ |------------|---------------|
-| Mern Ecommerce | [Depoy on render](https://ciervademo.onrender.com/)|   [Documented with Postman](https://github.com/yamilt351/ecommerce-api-rest-javascript-node-mongo)                |Api Rest ,Javascript, nodejs, express, jwt, oauth, stripe, backend pagination, mvc, ddd,  Mongoose , React , Redux       |  ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/yamilt351/ecommerce-api-rest-javascript-node-mongo) |
-| Web Scrapper | [Depoy on render](https://scraper-5ask.onrender.com/public/html.html)|   [Documented with Postman](https://github.com/yamilt351/scraper)                |Web Server , Javascript, nodejs, express, needle,cherio , mvc, ddd,sub /pub  Sequelize , HTML , CSS, Unit Testing        |  ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/yamilt351/scraper) |
+| Mern Ecommerce | [Depoy on render](https://ciervademo.onrender.com/)|   [Documented with Postman](https://github.com/yamilt351/ecommerce-api-rest-javascript-node-mongo)                |Api Rest ,Javascript, nodejs, express, jwt, oauth, stripe, backend pagination, mvc, ddd,  Mongoose , React , Redux       |  ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/yamilt351/ecommerce-api-rest-javascript-node-mongo?color=red) |
+| Web Scrapper | [Depoy on render](https://scraper-5ask.onrender.com/public/html.html)|   [Documented with Postman](https://github.com/yamilt351/scraper)                |Web Server , Javascript, nodejs, express, needle,cherio , mvc, ddd,sub /pub  Sequelize , HTML , CSS, Unit Testing        |  ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/yamilt351/scraper?color=red) |
 
- 
+
+
+
  </div>
 
