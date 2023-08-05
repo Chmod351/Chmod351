@@ -36,7 +36,6 @@ I would love to be part of a collaborative and focused team that brings out the 
 </div>
 
 <div align="center">
- 
  ![rainbow](https://github.com/yamilt351/yamilt351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
  
 <h3>Languages and Tools:</h3>
@@ -58,5 +57,18 @@ I would love to be part of a collaborative and focused team that brings out the 
 | <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yamilt351&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="yamilt351" /> |<img src="https://github-readme-stats.vercel.app/api?username=yamilt351&show_icons=true&locale=en&theme=blue-green" alt="yamilt351" />       | 
  
  </div>
+ <div align="center">
+  
+ ![rainbow](https://github.com/yamilt351/yamilt351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
+  
+ <h1>Projects</h1>
+
  
+| Project        | Demo               | Documentation     | Tech       | Pull Requests |
+| ---------------| ------------------ |------------------ |------------|---------------|
+| Mern Ecommerce | [Depoy on render](https://ciervademo.onrender.com/)|   [Documented with Postman](https://github.com/yamilt351/ecommerce-api-rest-javascript-node-mongo)                |Javascript, nodejs, express, jwt, oauth, stripe, backend pagination, mvc, ddd,  Mongoose , React , Redux       |  ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/yamilt351/ecommerce-api-rest-javascript-node-mongo) |
+| Web Scrapper | [Depoy on render](https://scraper-5ask.onrender.com/public/html.html)|   [Documented with Postman](https://github.com/yamilt351/scraper)                |Javascript, nodejs, express, needle,cherio , mvc, ddd,sub /pub  Sequelize          |  ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/yamilt351/scraper) |
+
+ 
+ </div>
 
