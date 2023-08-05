@@ -16,7 +16,7 @@
 <a href="https://discord.gg/5kMp9HwM">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https://open.spotify.com/playlist/0FiQetZ1anKxqy58tOdsiT?si=898168eafdaa4f8e">
+  <a href="https://open.spotify.com/playlist/2cALbCbLEZAljjdnkTE7F7?si=131aff0ed78e44b4">
     <img src="https://img.shields.io/badge/Soundtracks-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
   <a href="https://github.com/yamilt351/yamilt351/">
