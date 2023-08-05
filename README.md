@@ -27,7 +27,7 @@
 <img src ="https://github.com/yamilt351/yamilt351/assets/88646148/d1c3c1dd-8504-47e3-85fc-79b1216ba53b" align="left"/>
 <div align="right">
  
-<h3 align="center">:computer: About me </h3>
+<h3 align="center">🌱 About me </h3>
 <div align="center"> 
 I learned to program because I love 🐧Linux, and I would like to collaborate on important open-source projects within the Linux community in the future. One thing I've learned over time is that when you love what you do, nothing and no one can stop you, and that's how I've grown both professionally and academically, continuously learning new technologies and ways to improve my code without stopping. When you love what you do, the sky's the limit.
 
