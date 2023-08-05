@@ -71,6 +71,22 @@ I would love to be part of a collaborative and focused team that brings out the 
  
 </div>
 
+   ```mermaid
+   journey
+   	title My Projects Planification Workflow
+   	section Idea Born
+   		I start creating UMLs: 1: Me
+   		Make notes: 2: Me
+   		Ask friend for help: 3: Me, Friend
+   		We code together: 5: Me, Friend
+   	section The project grows
+   		A bug appear: 2: Me
+   		My friend leave the project: 1: Me, Friend
+   	section Result Declared
+   		I finish the project alone!: 5: Me
+   		My friend ask me to work together: 2: Friend
+   ```
+
 <div align="center">
  
  ![rainbow](https://github.com/yamilt351/yamilt351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
