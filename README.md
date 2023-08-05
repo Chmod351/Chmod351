@@ -65,7 +65,7 @@ I would love to be part of a collaborative and focused team that brings out the 
  <h1>Projects</h1>
 
  
-| Project        | Status               | Documentation     | Tech       | Pull Requests |
+| Project        | Status               | Documentation     | Tech       | Pull Requests Closed|
 | ---------------| ------------------ |------------------ |------------|---------------|
 | Ecommerce | [online](https://ciervademo.onrender.com/)|   [Postman](https://github.com/yamilt351/ecommerce-api-rest-javascript-node-mongo)                |Api Rest ,Javascript, nodejs, express, jwt, oauth, stripe, backend pagination, mvc, ddd,  Mongoose , React , Redux       |  ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/yamilt351/ecommerce-api-rest-javascript-node-mongo?color=red) |
 | Scrapper | [online](https://scraper-5ask.onrender.com/public/html.html)|   [Postman](https://github.com/yamilt351/scraper)                |Web Server , Javascript, nodejs, express, needle,cherio , mvc, ddd,sub /pub  Sequelize , HTML , CSS, Unit Testing        |  ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/yamilt351/scraper?color=red) |
