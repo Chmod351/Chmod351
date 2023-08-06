@@ -1,4 +1,6 @@
-<h1 align="center">Hi am a passionate Javascript :computer: Backend Developer</h1>
+<h1 align="center">Hi am a passionate Javascript :computer: Backend Developer <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=yamilt351&label=Views&color=12&icon=1&pretty=true" />
+</a> </h1> 
 <h2 align="center"> "When you love what you do, there's no limit. 🤘"</h2>
 
  
@@ -27,6 +29,9 @@
    <a href="https://github.com/yamilt351/neovim">
     <img src="https://img.shields.io/badge/My NeoVim Set Up-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/>
   </a>
+  
+
+
 </div>
 
 <img src ="https://github.com/yamilt351/yamilt351/assets/88646148/d1c3c1dd-8504-47e3-85fc-79b1216ba53b" align="left"/>
