@@ -97,7 +97,7 @@ I would love to be part of a collaborative and focused team that brings out the 
  
 |🔥 most used language 🔥 | 🔥🔥🔥 My Stats 🔥🔥🔥       | 
 | ---------------| ------------------ |
-| <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yamilt351&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="yamilt351" /> |<img src="https://github-readme-stats.vercel.app/api?username=yamilt351&show_icons=true&locale=en&theme=blue-green" alt="yamilt351" />       | 
+| <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yamilt351&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="yamilt351" /> |<img src="https://github-readme-stats.vercel.app/api?username=yamilt351&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="yamilt351" />       | 
 
 
  
