@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi am a passionate Javascript :computer: Backend Developer <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=yamilt351&label=Views&color=12&icon=1&pretty=true" />
 </a> </h1> 
@@ -14,17 +15,8 @@
   <a href="mailto:3bl48d8gf@mozmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Badge"/>
   </a>
- <a href="https://hub.docker.com/u/clamshell6412">
-    <img src="https://img.shields.io/badge/My Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
-  </a>
-<a href="https://discord.gg/5kMp9HwM">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
   <a href="https://open.spotify.com/playlist/2cALbCbLEZAljjdnkTE7F7?si=131aff0ed78e44b4">
     <img src="https://img.shields.io/badge/Soundtracks-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
-  </a>
-  <a href="https://github.com/yamilt351/yamilt351/">
-    <img src="https://img.shields.io/badge/I Use Arch BTW-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch BTW "/>
   </a>
    <a href="https://github.com/yamilt351/neovim">
     <img src="https://img.shields.io/badge/My NeoVim Set Up-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/>
@@ -77,22 +69,6 @@ I would love to be part of a collaborative and focused team that brings out the 
 
  
 </div>
-
-   ```mermaid
-   journey
-   	title My Projects Planification Workflow
-   	section Idea Born
-   		I start creating UMLs: 1: Me
-   		Make notes: 2: Me
-   		Ask friend for help: 3: Me, Friend
-   		We code together: 5: Me, Friend
-   	section The project grows
-   		A bug appear: 2: Me
-   		My friend leave the project: 1: Me, Friend
-   	section Result Declared
-   		I finish the project alone!: 5: Me
-   		My friend ask me to work together: 2: Friend
-   ```
 
 <div align="center">
  
