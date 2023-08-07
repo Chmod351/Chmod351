@@ -26,8 +26,9 @@
         </a>
     </div>
 </section>
+
 <section>
-    <img src="https://github.com/yamilt351/yamilt351/assets/88646148/038bc8bb-aa0f-40dd-a408-b56acd283e4f" align="left" width="50%"/>
+    <img src="https://github.com/yamilt351/yamilt351/assets/88646148/5ef19002-b90e-4dfe-8468-1943f365c4ca" align="left"  />
   <div align="right">
     <h3 align="center">🌱 About me </h3>
       <div align="center"> 
