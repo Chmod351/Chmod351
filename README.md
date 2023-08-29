@@ -1,5 +1,6 @@
 <header>
-  <h1 align="center">Hi am a passionate  :computer: Backend Web Developer
+  <h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+im+Yamil+a+Backend+web+Developer!" alt="Typing SVG" /></a>
     <a href="https://visitcount.itsvg.in">
       <img src="https://visitcount.itsvg.in/api?id=yamilt351&label=Views&color=12&icon=1&pretty=true" />
     </a>
