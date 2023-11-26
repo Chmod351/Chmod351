@@ -1,8 +1,8 @@
 <header>
   <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+im+Yamil+FullStack+web+Developer!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+im+FullStack+web+Developer!" alt="Typing SVG" /></a>
     <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=yamilt351&label=Views&color=12&icon=1&pretty=true" />
+      <img src="https://visitcount.itsvg.in/api?id=Chmod351&label=Views&color=12&icon=1&pretty=true" />
     </a>
   </h1> 
   <h2 align="center"> "When you love what you do, there's no limit. 🤘"</h2>
@@ -22,14 +22,14 @@
         <a href="https://open.spotify.com/playlist/2cALbCbLEZAljjdnkTE7F7?si=131aff0ed78e44b4">
           <img src="https://img.shields.io/badge/Soundtracks-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
         </a>
-         <a href="https://github.com/yamilt351/neovim">
+         <a href="https://github.com/Chmod351/neovim">
           <img src="https://img.shields.io/badge/My NeoVim Set Up-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/>
         </a>
     </div>
 </section>
 
 <section>
-    <img src="https://github.com/yamilt351/yamilt351/assets/88646148/5ef19002-b90e-4dfe-8468-1943f365c4ca" align="left"  />
+    <img src="https://github.com/Chmod351/Chmod351/assets/88646148/5ef19002-b90e-4dfe-8468-1943f365c4ca" align="left"  />
   <div align="right">
     <h3 align="center">🌱 About me </h3>
       <div align="center"> 
@@ -41,7 +41,7 @@
 <section>
   <div align="center">
   
-  ![rainbow](https://github.com/yamilt351/yamilt351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
+  ![rainbow](https://github.com/Chmod351/Chmod351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
    <h3>👨‍💻 Languages and Tools:</h3>
   
   |🔥 Languages |📌 Frontend        |📌 Backend            | 📌 Testing        |📌 Databases & ORM |📌      WorkFlow | 
@@ -55,27 +55,26 @@
 <section>
     <div align="center">
      
-  ![rainbow](https://github.com/yamilt351/yamilt351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
       
    <h3>Projects</h3>
   
   |📌 Projects |📌 Languages |📌 Top Language |📌  Pull Requests |📌 Last Commit |📌 Issues |
   |-------------|----------|---------------|----------------|-----------|---------|
-  |![Static Badge](https://img.shields.io/badge/scrapper-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/yamilt351/scraper?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/yamilt351/scraper?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/yamilt351/scraper?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/yamilt351/scraper) | ![GitHub issues](https://img.shields.io/github/issues/yamilt351/scraper?color=red)|
-  |![Static Badge](https://img.shields.io/badge/proxy-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/yamilt351/proxy-web-microservice?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/yamilt351/proxy-web-microservice?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/yamilt351/proxy-web-microservice?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/yamilt351/proxy-web-microservice) | ![GitHub issues](https://img.shields.io/github/issues/yamilt351/proxy-web-microservice?color=red)|
-  |![Static Badge](https://img.shields.io/badge/ecomerceDemo-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/yamilt351/ecomerceDemo?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/yamilt351/ecomerceDemo?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/yamilt351/ecomerceDemo?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/yamilt351/ecomerceDemo) | ![GitHub issues](https://img.shields.io/github/issues/yamilt351/ecomerceDemo?color=red)|
+  |![Static Badge](https://img.shields.io/badge/scrapper-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/Chmod351/scraper?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/Chmod351/scraper?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Chmod351/scraper?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Chmod351/scraper) | ![GitHub issues](https://img.shields.io/github/issues/Chmod351/scraper?color=red)|
+  |![Static Badge](https://img.shields.io/badge/proxy-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/Chmod351/proxy-web-microservice?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/Chmod351/proxy-web-microservice?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Chmod351/proxy-web-microservice?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Chmod351/proxy-web-microservice) | ![GitHub issues](https://img.shields.io/github/issues/Chmod351/proxy-web-microservice?color=red)|
+  |![Static Badge](https://img.shields.io/badge/ecomerceDemo-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/Chmod351/ecomerceDemo?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/Chmod351/ecomerceDemo?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Chmod351/ecomerceDemo?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Chmod351/ecomerceDemo) | ![GitHub issues](https://img.shields.io/github/issues/Chmod351/ecomerceDemo?color=red)|
    </div>
 </section>
 <footer>
   <div align="center">
    
-   ![rainbow](https://github.com/yamilt351/yamilt351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
+   ![rainbow](https://github.com/Chmod351/Chmod351/assets/88646148/c92553d4-d47d-4bcb-a505-5e861de4dba6)
   
-   [![GitHub Streak](https://streak-stats.demolab.com?user=yamilt351&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+   [![GitHub Streak](https://streak-stats.demolab.com?user=Chmod351&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
    
   |🔥 most used language 🔥 | 🔥🔥🔥 My Stats 🔥🔥🔥       | 
   | ---------------| ------------------ |
-  | <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yamilt351&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="yamilt351" /> |<img src="https://github-readme-stats.vercel.app/api?username=yamilt351&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="yamilt351" />       | 
+  | <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Chmod351&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Chmod351" /> |<img src="https://github-readme-stats.vercel.app/api?username=Chmod351&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="Chmod351" />       | 
    </div>
 </footer>
 
