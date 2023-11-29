@@ -1,12 +1,32 @@
-<header>
-  <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+im+FullStack+web+Developer!" alt="Typing SVG" /></a>
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=Chmod351&label=Views&color=12&icon=1&pretty=true" />
-    </a>
-  </h1> 
-  <h2 align="center"> "When you love what you do, there's no limit. 🤘"</h2>
-</header>
+  
+                                                                     88 
+                                                                     
+                         uuuuuuu                                     88  88,dPYba,,adPYba,
+                     uu$$$$$$$$$$$uu                                 88  88P'   "88"    "8a                     
+                  uu$$$$$$$$$$$$$$$$$uu                              88  88      88      88
+                 u$$$$$$$$$$$$$$$$$$$$$u                             88  88      88      88         
+                u$$$$$$$$$$$$$$$$$$$$$$$u                            88  88      88      88                                                             
+               u$$$$$$$$$$$$$$$$$$$$$$$$$u                     88                                                  88 
+               u$$$$$$$$$$$$$$$$$$$$$$$$$u                     88                                                  88 
+               u$$$$$$"   "$$$"   "$$$$$$u                     88                                                  88  
+               "$$$$"      u$u       $$$$"           ,adPPYba, 88,dPPYba,  88,dPYba,,adPYba,   ,adPPYba,   ,adPPYb,88 
+                $$$u       u$u       u$$$           a8"     "" 88P'    "8a 88P'   "88"    "8a a8"     "8a a8"    `Y88  
+                $$$u      u$$$u      u$$$           8b         88       88 88      88      88 8b       d8 8b       88  
+                 "$$$$uu$$$   $$$uu$$$$"            "8a,   ,aa 88       88 88      88      88 "8a,   ,a8" "8a,   ,d88 
+                  "$$$$$$$"   "$$$$$$$"              `"Ybbd8"' 88       88 88      88      88  `"YbbdP"'   `"8bbdP"Y8 
+                    u$$$$$$$u$$$$$$$u
+                     u$"$"$"$"$"$"$u                        
+          uuu        $$u$ $ $ $ $u$$       uuu
+         u$$$$        $$$$$u$u$u$$$       u$$$$
+          $$$$$uu      "$$$$$$$$$"     uu$$$$$$     
+        u$$$$$$$$$$$uu    """""    uuuu$$$$$$$$$$
+        $$$$"""$$$$$$$$$$uuu   uu$$$$$$$$$"""$$$"
+           """      ""$$$$$$$$$$$uu ""$"""
+                    uuuu ""$$$$$$$$$$uuu
+          u$$$uuu$$$$$$$$$uu ""$$$$$$$$$$$uuu$$$
+           $$$$$$$$$$""""           ""$$$$$$$$$$$"
+             "$$$$$"                      ""$$$$""
+               $$$"                         $$$$"                                                                                        
 
  <section >
      <div id="badges" align="center">
