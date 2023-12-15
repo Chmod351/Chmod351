@@ -30,17 +30,8 @@
 
  <section >
      <div id="badges" align="center">
-         <a href="https://yamil-tauil.onrender.com/">
-          <img src="https://img.shields.io/badge/My Portfolio-red?style=for-the-badge&logoColor=white" alt="LinkedIn Badge"/>
-        </a>
-        <a href="https://www.linkedin.com/in/yamil-tauil/">
-          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-        </a>
         <a href="mailto:3bl48d8gf@mozmail.com">
           <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Badge"/>
-        </a>
-        <a href="https://open.spotify.com/playlist/2cALbCbLEZAljjdnkTE7F7?si=131aff0ed78e44b4">
-          <img src="https://img.shields.io/badge/Soundtracks-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
         </a>
          <a href="https://github.com/Chmod351/neovim">
           <img src="https://img.shields.io/badge/My NeoVim Set Up-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/>
