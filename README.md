@@ -11,12 +11,14 @@
 
  <section >
      <div id="badges" align="center">
-        <a href="mailto:3bl48d8gf@mozmail.com">
+        <a href="mailto:8634t0djp@mozmail.com">
           <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Badge"/>
         </a>
          <a href="https://github.com/Chmod351/neovim">
           <img src="https://img.shields.io/badge/My NeoVim Set Up-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/>
         </a>
+       <a href="https://www.linkedin.com/in/yamil-tauil/">
+         <img src="https://img.shields.io/badge/Linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
     </div>
 </section>
 
