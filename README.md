@@ -17,9 +17,8 @@
          <a href="https://github.com/Chmod351/neovim">
           <img src="https://img.shields.io/badge/My NeoVim Set Up-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim"/>
         </a>
-       <a href="https://www.linkedin.com/in/yamil-tauil/">
-         <img src="https://img.shields.io/badge/Linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-    </div>
+       
+    
 </section>
 
 <section>
@@ -47,19 +46,7 @@
   
   </div>
 </section>
-<section>
-    <div align="center">
-     
-      
-   <h3>Projects</h3>
-  
-  |📌 Projects |📌 Languages |📌 Top Language |📌  Pull Requests |📌 Last Commit |📌 Issues |
-  |-------------|----------|---------------|----------------|-----------|---------|
-  |![Static Badge](https://img.shields.io/badge/scrapper-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/Chmod351/scraper?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/Chmod351/scraper?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Chmod351/scraper?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Chmod351/scraper) | ![GitHub issues](https://img.shields.io/github/issues/Chmod351/scraper?color=red)|
-  |![Static Badge](https://img.shields.io/badge/proxy-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/Chmod351/proxy-web-microservice?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/Chmod351/proxy-web-microservice?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Chmod351/proxy-web-microservice?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Chmod351/proxy-web-microservice) | ![GitHub issues](https://img.shields.io/github/issues/Chmod351/proxy-web-microservice?color=red)|
-  |![Static Badge](https://img.shields.io/badge/ecomerceDemo-on?logo=js&color=blue) | ![GitHub language count](https://img.shields.io/github/languages/count/Chmod351/ecomerceDemo?color=blue) |![GitHub top language](https://img.shields.io/github/languages/top/Chmod351/ecomerceDemo?color=blue)|![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Chmod351/ecomerceDemo?color=red)|![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Chmod351/ecomerceDemo) | ![GitHub issues](https://img.shields.io/github/issues/Chmod351/ecomerceDemo?color=red)|
-   </div>
-</section>
+
 <footer>
   <div align="center">
    
