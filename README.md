@@ -29,8 +29,8 @@ A multi-tenant external attack surface management platform featuring a Next.js/R
 | Category | Technologies |
 | :--- | :--- |
 | **Languages & Core** | TypeScript, JavaScript (ES6+), SQL, HTML5/CSS3 |
-| **Backend & Architecture** | Microservices, Event-Driven Architecture, Bun, Node.js, REST APIs, WebSockets, Server-Sent Events (SSE), HMAC |
-| **Database & Infrastructure** | PostgreSQL, SQLite, Docker, DinD/DooD, AWS, Redis |
+| **Backend & Architecture** | Microservices, Event-Driven Architecture, Bun, Node.js, REST APIs, WebSockets, Server-Sent Events (SSE) |
+| **Database & Infrastructure** | PostgreSQL, SQLite, Docker, DinD/DooD, AWS |
 | **Frontend & UI** | React, Next.js (App Router), React Query, Tailwind CSS, Shadcn UI, Recharts |
 | **Testing & Tools** | Jest, Cypress, Git, CI/CD Pipelines, Linux (Arch/Ubuntu/Debian) |
 
