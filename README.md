@@ -1,5 +1,6 @@
 <div align="center">
-### **Fullstack Web Developer & Software Engineer**
+
+  **Fullstack Web Developer & Software Engineer**
 
 📍 **Argentina (ART / UTC-3)** — *Full Time Zone Alignment with US East Coast (EST)*
 
