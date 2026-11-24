@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 ### 📡 **Radar — External Attack Surface Monitoring Platform**
 A multi-tenant external attack surface management platform featuring a Next.js/React executive dashboard, a Bun/TypeScript API, and a containerized reconnaissance worker
